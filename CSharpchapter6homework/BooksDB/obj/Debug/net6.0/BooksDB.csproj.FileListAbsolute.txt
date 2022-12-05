@@ -1,0 +1,14 @@
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\bin\Debug\net6.0\BooksDB.deps.json
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\bin\Debug\net6.0\BooksDB.runtimeconfig.json
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\bin\Debug\net6.0\BooksDB.dll
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\bin\Debug\net6.0\BooksDB.pdb
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.csproj.AssemblyReference.cache
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.AssemblyInfoInputs.cache
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.AssemblyInfo.cs
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.csproj.CoreCompileInputs.cache
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.dll
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\refint\BooksDB.dll
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.pdb
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\BooksDB.genruntimeconfig.cache
+C:\Users\mz\source\repos\CSharpchapter6homework\BooksDB\obj\Debug\net6.0\ref\BooksDB.dll

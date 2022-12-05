@@ -1,0 +1,14 @@
+LAPTOP-G5VBDI02
+.net6.0
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SQLServer.Design
+Microsoft.EntityFrameworkCore.Tools
+
+Data Source=LAPTOP-G5VBDI02;Initial Catalog=Books;Integrated Security=True
+
+
+Scaffold-DbContext 'Data Source=LAPTOP-G5VBDI02;Initial Catalog=Books;Integrated Security=True'Microsoft.EntityFrameworkCore.SqlServer
+
+Scaffold-DbContext 'Data Source=LAPTOP-G5VBDI02;Initial Catalog=Books;Integrated Security=True;TrustServerCertificate=True'Microsoft.EntityFrameworkCore.SqlServer
